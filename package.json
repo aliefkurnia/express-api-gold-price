@@ -7,7 +7,12 @@
     "start": "node src/index.js",
     "dev": "nodemon src/index.js",
     "lint": "eslint --fix src",
+<<<<<<< HEAD
     "test": "jest"
+=======
+    "test": "jest",
+    "vercel-build": "echo hello"
+>>>>>>> master
   },
   "keywords": [],
   "author": "CJ R. <cj@null.computer> (https://w3cj.now.sh)",
@@ -21,6 +26,10 @@
     "dotenv": "^16.4.5",
     "express": "^4.18.3",
     "helmet": "^7.1.0",
+<<<<<<< HEAD
+=======
+    "linkedom": "^0.18.3",
+>>>>>>> master
     "morgan": "^1.10.0"
   },
   "devDependencies": {

@@ -71,3 +71,8 @@ typings/
 
 # Serverless directories
 .serverless
+<<<<<<< HEAD
+=======
+
+.vercel
+>>>>>>> master
